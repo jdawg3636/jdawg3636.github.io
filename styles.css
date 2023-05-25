@@ -1,6 +1,7 @@
 body {
   background: linear-gradient(0deg, #282c34, #3498db);
-  background-size: 1000px 1000px;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
 }
 
 .profile-container {
